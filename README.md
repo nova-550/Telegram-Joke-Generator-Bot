@@ -31,9 +31,6 @@ Followed by a user-specified topic:
 - Groq (Gemma2-9b-It model)
 - dotenv for secure config
 
-## 📸 Demo
-*Coming soon...* (Add GIF/screenshot here if available)
-
 ## 🔐 Environment Variables
 Create a `.env` file in the root directory and include:
 
